@@ -1,0 +1,753 @@
+D19Wfl "vhh" ["m<1253:R","R"]
+D19Wfl "fz" ["x<607:hgz","A"]
+D19Wfl "nt" ["s>1658:A","m>2167:R","x<1701:A","knr"]
+D19Wfl "sk" ["m<662:R","R"]
+D19Wfl "jmf" ["a>994:A","x>2248:A","s<202:R","A"]
+D19Wfl "vkg" ["m>304:sv","m<201:lqf","gc"]
+D19Wfl "pd" ["a>714:R","s<705:R","A"]
+D19Wfl "drf" ["a<743:jhr","s<2525:bq","jtz"]
+D19Wfl "dnc" ["x<2550:A","x<2871:A","s<3255:A","R"]
+D19Wfl "sdd" ["m<3059:R","x>1469:grz","a>643:A","bcm"]
+D19Wfl "bcd" ["s>1882:ctg","s<1552:sbv","mz"]
+D19Wfl "qlc" ["m<1024:qvh","vx"]
+D19Wfl "pgt" ["s<871:R","A"]
+D19Wfl "ss" ["s<2152:R","jq"]
+D19Wfl "xlv" ["m<863:gdq","jm"]
+D19Wfl "vf" ["s>3033:R","s<2916:R","A"]
+D19Wfl "qb" ["a>1142:lg","m>792:R","A"]
+D19Wfl "hbj" ["s>1495:R","m<3875:R","R"]
+D19Wfl "lb" ["a<977:gg","x>674:fxn","zzp"]
+D19Wfl "jjp" ["a>1402:jzd","a<903:xf","bgp"]
+D19Wfl "xz" ["s<2053:nn","m<819:jbc","m<1387:rrq","zl"]
+D19Wfl "jl" ["s>2490:A","x<1531:A","A"]
+D19Wfl "glc" ["s<861:A","m>625:R","A"]
+D19Wfl "sz" ["s>3282:dk","x>3252:qjx","vfv"]
+D19Wfl "bn" ["s>789:A","m>376:A","A"]
+D19Wfl "bk" ["a<3606:lpk","a>3817:fv","mxd"]
+D19Wfl "xcm" ["a<1300:A","A"]
+D19Wfl "tqs" ["a>1227:lzv","s<1984:ql","btm"]
+D19Wfl "qlh" ["s<1420:R","R"]
+D19Wfl "jfg" ["m<757:A","a<1311:A","m<1268:A","R"]
+D19Wfl "rpc" ["m<1054:R","A"]
+D19Wfl "ctn" ["m>2884:npp","s>1983:R","m>2664:bbl","vq"]
+D19Wfl "zkr" ["x<918:R","a<2882:A","A"]
+D19Wfl "rfl" ["s>3583:R","a>353:R","A"]
+D19Wfl "fxn" ["a<1011:A","m<634:kpz","m<1226:R","R"]
+D19Wfl "lbs" ["x>2854:R","a>785:R","A"]
+D19Wfl "zr" ["x<978:A","R"]
+D19Wfl "zc" ["x<3640:R","m>631:R","A"]
+D19Wfl "vqc" ["s<3350:R","R"]
+D19Wfl "sq" ["m>1329:R","R"]
+D19Wfl "hqz" ["m<3697:ngb","x>892:xhv","R"]
+D19Wfl "gxx" ["m>968:sn","a<126:qm","x<3104:rtz","zm"]
+D19Wfl "jfp" ["s<1597:R","R"]
+D19Wfl "rgx" ["x>3360:hd","rdn"]
+D19Wfl "zx" ["a>2698:xls","zp"]
+D19Wfl "bhm" ["x>3186:A","s>2907:js","lt"]
+D19Wfl "sn" ["a<138:qfp","s>1828:kkb","nc"]
+D19Wfl "hnj" ["x>401:A","R"]
+D19Wfl "hq" ["a<2585:vbp","x<1122:zkr","m<3897:A","lff"]
+D19Wfl "plb" ["x<3671:A","a<921:R","A"]
+D19Wfl "xvn" ["a<3364:A","R"]
+D19Wfl "hpj" ["a>519:A","a>315:A","A"]
+D19Wfl "hn" ["m<1115:A","x<2632:R","x>2764:R","A"]
+D19Wfl "gg" ["x>897:zhq","s>1653:qs","R"]
+D19Wfl "ck" ["m<2051:R","x<901:R","A"]
+D19Wfl "qfd" ["s<3141:A","m>1998:A","m>1909:A","A"]
+D19Wfl "vc" ["s<409:bv","xs"]
+D19Wfl "rd" ["s>1755:nq","qrp"]
+D19Wfl "gc" ["s<2493:mmv","m<256:nk","kdx"]
+D19Wfl "td" ["x<2197:R","x>2608:A","A"]
+D19Wfl "qpx" ["x>1028:A","R"]
+D19Wfl "cb" ["m<785:cjn","s>2054:dnc","xm"]
+D19Wfl "bgn" ["s>3068:A","R"]
+D19Wfl "rh" ["s>2433:A","a<651:A","x<3472:R","A"]
+D19Wfl "tdc" ["s<3243:R","a<2939:R","a>3382:R","A"]
+D19Wfl "smk" ["x<3796:lq","x<3880:R","s<1792:zs","R"]
+D19Wfl "mkn" ["a>2659:A","a>2628:A","a>2621:R","A"]
+D19Wfl "tz" ["s>2615:R","R"]
+D19Wfl "qqn" ["s>995:A","a>56:R","R"]
+D19Wfl "jlq" ["s>1442:pnl","a<2722:mkn","s>645:dhd","mcg"]
+D19Wfl "cjn" ["x>2243:R","m<709:R","x>1956:R","R"]
+D19Wfl "zjf" ["s<2605:ts","x>3507:fr","kr"]
+D19Wfl "vfv" ["a<444:zmb","R"]
+D19Wfl "pht" ["s>1905:ck","m>2063:R","s>991:A","A"]
+D19Wfl "hj" ["a>3369:R","x>255:A","A"]
+D19Wfl "rlb" ["a<2239:R","x>3333:A","A"]
+D19Wfl "cls" ["x>651:R","m<3664:A","R"]
+D19Wfl "dh" ["m<3872:R","s>2643:A","s<1996:A","A"]
+D19Wfl "zs" ["a>1056:A","R"]
+D19Wfl "hd" ["x<3618:bf","s>1990:R","s<805:pb","A"]
+D19Wfl "rch" ["x>274:R","x>136:R","bs"]
+D19Wfl "xt" ["m>958:gp","x>1443:tqt","x>713:mh","A"]
+D19Wfl "mv" ["s>754:R","m>997:R","s>359:A","R"]
+D19Wfl "ht" ["x<2088:A","R"]
+D19Wfl "ts" ["s<1514:R","a>1255:xc","s>2161:R","zc"]
+D19Wfl "hlp" ["s<3320:R","m<2175:A","a<3517:dlb","qh"]
+D19Wfl "bt" ["x<324:A","A"]
+D19Wfl "vr" ["s<299:R","x<1347:A","A"]
+D19Wfl "kkz" ["m>607:R","R"]
+D19Wfl "gz" ["x>1177:A","s>3045:gcd","a<748:xj","lv"]
+D19Wfl "ptn" ["a>1251:R","A"]
+D19Wfl "crf" ["s>2533:bqq","m>3663:R","s<2209:A","A"]
+D19Wfl "pdk" ["s>2676:vlq","m>386:jkj","dn"]
+D19Wfl "ptb" ["s<557:A","x<970:R","A"]
+D19Wfl "rsr" ["m>3073:jhn","rct"]
+D19Wfl "bbc" ["a>3016:prh","a<2607:zhz","a>2815:fjx","jlq"]
+D19Wfl "sbv" ["a<1373:A","x<1473:R","R"]
+D19Wfl "jhn" ["s>2149:tdc","a<2796:cgr","A"]
+D19Wfl "lt" ["x>2928:A","x<2780:R","A"]
+D19Wfl "hlj" ["s<492:R","x>1589:A","R"]
+D19Wfl "lbx" ["m>2195:rt","a>3305:xbd","pht"]
+D19Wfl "zl" ["x<3098:vjg","s>3015:A","s>2644:R","A"]
+D19Wfl "zmb" ["m<3304:R","A"]
+D19Wfl "cv" ["a>2201:A","R"]
+D19Wfl "bqf" ["x<1277:R","R"]
+D19Wfl "rg" ["a<3585:ljp","m<2211:A","x<3630:A","R"]
+D19Wfl "mg" ["s>2602:fn","A"]
+D19Wfl "hc" ["m>464:A","R"]
+D19Wfl "qj" ["m<1135:bqf","m>1244:R","sj"]
+D19Wfl "mkg" ["s<2420:R","R"]
+D19Wfl "kt" ["m>2215:R","x>3386:A","x<3107:R","R"]
+D19Wfl "jpj" ["x>1211:A","x<1089:R","A"]
+D19Wfl "sb" ["a>1109:A","m<1078:R","A"]
+D19Wfl "sc" ["a>803:A","A"]
+D19Wfl "dtt" ["m>334:R","R"]
+D19Wfl "sj" ["m<1177:R","m>1213:R","A"]
+D19Wfl "jv" ["s<2957:A","a<689:zz","xqx"]
+D19Wfl "nz" ["a<3414:R","a>3627:A","R"]
+D19Wfl "hm" ["m<1514:A","s<1415:A","x<439:A","A"]
+D19Wfl "rdn" ["m<863:A","A"]
+D19Wfl "nx" ["s>817:A","m>738:A","m<651:R","A"]
+D19Wfl "zhq" ["s<1894:R","A"]
+D19Wfl "gs" ["m<2619:xn","mf"]
+D19Wfl "fhq" ["x>1057:vrs","s<2274:R","R"]
+D19Wfl "vx" ["s>2163:dzp","m<1317:qj","m>1518:bnf","ffv"]
+D19Wfl "kj" ["s<2020:jp","s>2358:pm","x<1307:jkp","hv"]
+D19Wfl "tj" ["s>710:A","A"]
+D19Wfl "dzp" ["a<1315:R","a>1344:A","x<1344:R","A"]
+D19Wfl "ffd" ["x>853:A","s<3210:A","x<366:A","qv"]
+D19Wfl "xvv" ["a<599:R","a>844:A","A"]
+D19Wfl "vj" ["a>50:A","R"]
+D19Wfl "mnq" ["a<1168:A","x<2692:A","s<612:A","A"]
+D19Wfl "zzs" ["s>821:R","x>588:R","A"]
+D19Wfl "lz" ["m>3378:A","s>1821:A","A"]
+D19Wfl "fm" ["x>1486:R","m<2571:A","a>1309:R","A"]
+D19Wfl "ll" ["s<553:R","R"]
+D19Wfl "crl" ["m>2478:ctn","s<2428:rg","hlp"]
+D19Wfl "tr" ["a>520:rgf","a>486:fnq","kk"]
+D19Wfl "xh" ["m<3422:A","A"]
+D19Wfl "ng" ["a<779:R","s<926:A","R"]
+D19Wfl "kgp" ["a>1024:R","a<983:A","A"]
+D19Wfl "hpl" ["s>904:A","a<1300:R","s>558:R","A"]
+D19Wfl "lfr" ["s>877:hs","a>360:cbs","R"]
+D19Wfl "lxk" ["s<851:prx","s>1176:tp","s>1014:R","dhp"]
+D19Wfl "md" ["s<799:qt","x<620:vml","a>3124:nm","hq"]
+D19Wfl "nc" ["x>2858:A","dj"]
+D19Wfl "zm" ["m<352:vb","x>3441:cc","m>578:vvj","sl"]
+D19Wfl "kdx" ["m>282:R","m>268:R","R"]
+D19Wfl "jd" ["a<2886:R","A"]
+D19Wfl "gp" ["x>1532:A","m>1022:A","m>999:A","A"]
+D19Wfl "mc" ["a<869:R","x>960:R","x>546:R","R"]
+D19Wfl "mqs" ["a>473:R","R"]
+D19Wfl "rcq" ["m>3330:ffd","sdd"]
+D19Wfl "xrq" ["m>785:A","x<416:hj","m>700:A","nz"]
+D19Wfl "lhd" ["s<2000:A","x>376:R","R"]
+D19Wfl "jf" ["s<1662:R","s>2786:lj","m<244:pvz","A"]
+D19Wfl "vjg" ["x<2497:R","x<2749:A","m>1548:A","A"]
+D19Wfl "pk" ["m<3621:R","A"]
+D19Wfl "njz" ["s<1939:A","A"]
+D19Wfl "zvq" ["m<230:R","A"]
+D19Wfl "hhj" ["x>2664:R","x<2502:A","R"]
+D19Wfl "vbp" ["x>1084:A","s>1181:A","R"]
+D19Wfl "npt" ["a>1293:klr","mxh"]
+D19Wfl "spt" ["a>406:R","A"]
+D19Wfl "ffg" ["a>298:A","s>1625:A","R"]
+D19Wfl "xf" ["a>559:fg","x<1682:pf","a<362:gxx","qqm"]
+D19Wfl "czb" ["x<2169:vd","m>579:hsk","a<735:gm","jf"]
+D19Wfl "cq" ["m>605:A","x<937:A","R"]
+D19Wfl "mxd" ["s<2598:A","a<3726:xl","m<3903:A","bgn"]
+D19Wfl "zh" ["x>1813:R","R"]
+D19Wfl "srn" ["m<1000:fsx","R"]
+D19Wfl "tb" ["x<2314:tts","s<1629:gzg","x>2644:kz","mg"]
+D19Wfl "bdt" ["m>340:A","s>3192:R","A"]
+D19Wfl "kp" ["x<931:kxg","x>1022:R","m>1257:mzl","sb"]
+D19Wfl "zpt" ["m<699:A","a>1194:A","s>3079:R","A"]
+D19Wfl "fk" ["m>759:R","s<803:A","qlh"]
+D19Wfl "tcf" ["a<205:A","m>292:A","a>410:A","R"]
+D19Wfl "grr" ["a>2840:A","s<3459:R","m>3809:R","A"]
+D19Wfl "hg" ["s<2052:R","m<2485:R","m>2555:A","A"]
+D19Wfl "nkb" ["s>1347:zr","x<734:gkt","s<583:pj","lfr"]
+D19Wfl "mzl" ["a>1112:A","m<1575:A","x<965:A","R"]
+D19Wfl "jbc" ["a<396:cmx","a>419:hc","R"]
+D19Wfl "fx" ["a<3812:A","m>3924:R","m<3887:R","R"]
+D19Wfl "pmb" ["a<3384:R","a>3487:R","s>3022:A","R"]
+D19Wfl "gm" ["m<364:R","m<438:R","R"]
+D19Wfl "bs" ["s>1109:R","A"]
+D19Wfl "dc" ["x<1435:bqk","m>419:glc","m<242:hlj","hpl"]
+D19Wfl "ctg" ["x<1283:A","a>1373:A","m<566:R","R"]
+D19Wfl "bvp" ["s<2372:A","A"]
+D19Wfl "zp" ["a>2648:A","A"]
+D19Wfl "hr" ["x<2598:R","R"]
+D19Wfl "mxh" ["m>1096:A","a>1255:R","vqc"]
+D19Wfl "vg" ["s>1216:A","x>102:A","a>3158:R","R"]
+D19Wfl "qv" ["x>561:R","m<3759:R","R"]
+D19Wfl "jhr" ["a<662:ch","A"]
+D19Wfl "smh" ["s<2163:A","x<1409:A","R"]
+D19Wfl "kks" ["m<591:vkg","m<885:tg","s>1503:hvj","rr"]
+D19Wfl "rtv" ["m>768:cdv","dtt"]
+D19Wfl "bqq" ["m>3706:A","m>3640:R","R"]
+D19Wfl "fck" ["a>3188:kps","A"]
+D19Wfl "mkj" ["s<1719:A","s>3137:R","A"]
+D19Wfl "cdv" ["m<1246:R","a<1145:A","hlx"]
+D19Wfl "qp" ["a>3555:A","x<1837:A","x<2044:ndg","vl"]
+D19Wfl "txd" ["s>1260:R","a>2410:A","R"]
+D19Wfl "bd" ["a>322:A","x>1042:A","qtn"]
+D19Wfl "qt" ["s<292:qds","m<3916:ptb","s<524:ns","scg"]
+D19Wfl "zzc" ["s>3127:R","hn"]
+D19Wfl "rnk" ["a<347:R","R"]
+D19Wfl "kkb" ["a<234:hr","m>1487:bcr","gk"]
+D19Wfl "rqd" ["a<1012:R","s>2272:A","s<804:R","R"]
+D19Wfl "brn" ["a>1086:A","a<935:A","A"]
+D19Wfl "mzb" ["a<185:R","m<2294:A","A"]
+D19Wfl "rgb" ["s<1147:R","x<2534:A","A"]
+D19Wfl "dd" ["x>667:bd","m>1103:jhc","x<384:qk","vn"]
+D19Wfl "xdb" ["x>3728:A","a<1566:R","a<1677:R","A"]
+D19Wfl "sdv" ["m<931:R","A"]
+D19Wfl "pt" ["m<3631:R","R"]
+D19Wfl "cx" ["a<1042:lb","s<1432:rtv","x<745:qvv","bvk"]
+D19Wfl "prx" ["m<3771:A","s<430:R","x>860:R","R"]
+D19Wfl "vp" ["s>3461:A","A"]
+D19Wfl "rqj" ["a<2350:lls","m>2129:kt","a>2428:A","A"]
+D19Wfl "sx" ["a<1357:kkz","fj"]
+D19Wfl "dsk" ["s>1588:mhb","gd"]
+D19Wfl "ns" ["a<3061:R","a>3401:R","s<433:A","A"]
+D19Wfl "tg" ["a<3036:bz","s>2191:fcv","x>825:qp","xrq"]
+D19Wfl "lbz" ["a<210:A","x<3371:R","A"]
+D19Wfl "jb" ["x>3055:kd","m<1445:dm","lbs"]
+D19Wfl "qfp" ["a<80:mq","x>2922:A","R"]
+D19Wfl "zsv" ["a>2555:grr","A"]
+D19Wfl "ljp" ["s>1204:A","a>3115:A","A"]
+D19Wfl "bv" ["a<2458:R","m<3711:pt","m>3773:zhl","dkz"]
+D19Wfl "slk" ["a<847:kn","m<2666:nt","x<1985:mt","cmg"]
+D19Wfl "qgp" ["m>263:R","m>115:R","m<72:R","A"]
+D19Wfl "gtb" ["a<1533:A","R"]
+D19Wfl "vml" ["x<209:vg","m>3897:R","A"]
+D19Wfl "bf" ["a>510:R","s>2009:A","R"]
+D19Wfl "qm" ["m>606:xqg","zvq"]
+D19Wfl "cl" ["s>1521:tz","rzj"]
+D19Wfl "gr" ["x<1904:A","m>372:R","A"]
+D19Wfl "zz" ["m<1467:A","A"]
+D19Wfl "qvv" ["s>2314:fcd","qb"]
+D19Wfl "zj" ["a>706:R","s<398:A","R"]
+D19Wfl "fcv" ["a<3531:tf","m<761:A","vdq"]
+D19Wfl "bgp" ["x>1724:rhh","a<1212:cx","x<1026:gtg","qlc"]
+D19Wfl "mrk" ["a<3128:A","A"]
+D19Wfl "dzr" ["a<3025:ctx","m>3794:bk","pcj"]
+D19Wfl "qz" ["m<3561:nj","x>1738:mj","s<1525:lp","dzr"]
+D19Wfl "rm" ["x>3171:R","x>2793:A","R"]
+D19Wfl "fr" ["a>1217:jfg","m>1190:lm","R"]
+D19Wfl "klr" ["x>863:sdv","R"]
+D19Wfl "qcr" ["x>1610:R","m<2179:R","R"]
+D19Wfl "kkj" ["s>2614:R","x<2010:A","s<2264:R","A"]
+D19Wfl "lj" ["s>3244:A","m<382:A","R"]
+D19Wfl "fhj" ["s<1885:A","a>824:A","m<558:R","R"]
+D19Wfl "pf" ["m<624:xgc","s<2448:nkb","dd"]
+D19Wfl "vn" ["m<929:R","a>324:mqs","A"]
+D19Wfl "bq" ["m<1220:A","s>975:njz","A"]
+D19Wfl "cxp" ["s<1911:R","A"]
+D19Wfl "cbs" ["a<459:R","x>1291:R","m<1391:R","R"]
+D19Wfl "vl" ["x>2211:R","a<3304:A","s<878:A","R"]
+D19Wfl "lm" ["s>3149:A","R"]
+D19Wfl "xl" ["s<3195:A","s<3503:A","R"]
+D19Wfl "tk" ["x<220:bvp","m<802:bt","gqh"]
+D19Wfl "bh" ["a>851:R","x<3238:A","m>3147:R","A"]
+D19Wfl "jss" ["s>1416:snm","x>461:A","ph"]
+D19Wfl "rk" ["m>322:A","A"]
+D19Wfl "gqh" ["a<1303:ptn","a>1347:A","A"]
+D19Wfl "rct" ["m>2928:R","A"]
+D19Wfl "bz" ["x>1564:A","s<2021:A","x<851:A","R"]
+D19Wfl "ckf" ["x<3624:A","x>3804:A","s>3001:A","R"]
+D19Wfl "pkp" ["m<2215:R","m<2460:R","A"]
+D19Wfl "vd" ["a<682:dx","s<1565:ng","s>2392:R","fhj"]
+D19Wfl "rvs" ["a>1298:sx","xlv"]
+D19Wfl "qjx" ["x>3570:xvv","s>2626:R","A"]
+D19Wfl "rn" ["x>2616:R","s>3454:A","m<1978:R","A"]
+D19Wfl "xbd" ["s<1931:R","a<3678:qfd","m>1997:A","R"]
+D19Wfl "pm" ["s>2579:R","x<1132:A","s>2434:A","R"]
+D19Wfl "zpx" ["m<3773:R","s>816:A","R"]
+D19Wfl "tjp" ["x<3526:A","s<504:A","A"]
+D19Wfl "bp" ["x>3649:R","m<1264:A","R"]
+D19Wfl "bqk" ["m<375:R","R"]
+D19Wfl "vrs" ["s<1841:R","x<1291:R","a>2903:R","A"]
+D19Wfl "xqx" ["s>3582:R","A"]
+D19Wfl "tf" ["a<3254:A","a<3353:A","x>1084:A","A"]
+D19Wfl "mj" ["m<3800:mzg","lvz"]
+D19Wfl "pnl" ["x<2813:R","A"]
+D19Wfl "fxb" ["m<2661:R","x<2111:A","A"]
+D19Wfl "ctx" ["s>3156:zsv","hth"]
+D19Wfl "hsk" ["a>697:gq","x>2818:rh","sbz"]
+D19Wfl "vdq" ["x<1197:R","m>835:A","a>3752:A","R"]
+D19Wfl "rc" ["m>3702:R","R"]
+D19Wfl "mmp" ["s>3446:R","m>1291:A","s>3242:A","R"]
+D19Wfl "nj" ["x>1965:bbc","gfp"]
+D19Wfl "jh" ["a<2753:svc","m>974:hjh","a<3488:R","R"]
+D19Wfl "qds" ["x>878:A","m>3885:R","m>3846:R","R"]
+D19Wfl "hrf" ["x<442:A","x<669:A","x>848:R","A"]
+D19Wfl "glm" ["a>2786:hpn","ht"]
+D19Wfl "gkt" ["s>885:R","a<349:rpc","rsx"]
+D19Wfl "zt" ["s>1459:qtx","fkk"]
+D19Wfl "tq" ["x<3396:R","s>1507:kgp","x<3427:jgt","sq"]
+D19Wfl "xls" ["a>2741:R","a>2721:A","m<2100:R","R"]
+D19Wfl "sl" ["x>3321:lbz","A"]
+D19Wfl "pvz" ["m<108:A","s>2235:A","R"]
+D19Wfl "drg" ["s<532:R","R"]
+D19Wfl "lqf" ["s>1779:A","a<2366:A","x<1301:R","jx"]
+D19Wfl "ph" ["a>1933:R","m<1747:R","R"]
+D19Wfl "spb" ["s<896:A","m<660:R","s<1276:A","A"]
+D19Wfl "vq" ["x>3791:R","m<2600:R","A"]
+D19Wfl "dkz" ["m>3737:A","x<802:A","R"]
+D19Wfl "jq" ["m<586:R","a<1256:A","a>1282:A","R"]
+D19Wfl "mzg" ["s<1564:gnv","a>3269:crf","mqc"]
+D19Wfl "vvj" ["x<3300:R","m>790:sh","R"]
+D19Wfl "xqg" ["s>1662:xg","x<2774:vj","m>755:qqn","spb"]
+D19Wfl "zhz" ["m<3445:lz","cxp"]
+D19Wfl "dk" ["s>3679:hpj","a<567:R","m<3407:bh","rm"]
+D19Wfl "xc" ["a>1310:A","x>3386:R","a<1287:R","R"]
+D19Wfl "grz" ["a>678:A","m<3206:R","x>1960:R","A"]
+D19Wfl "xn" ["a>564:pkp","a<217:zh","R"]
+D19Wfl "rr" ["x<1350:hjg","x<1851:jh","mv"]
+D19Wfl "dj" ["a>220:R","s<1186:A","R"]
+D19Wfl "vhd" ["x>581:A","crm"]
+D19Wfl "hlx" ["m<1509:A","A"]
+D19Wfl "kxg" ["x>855:R","x<791:A","A"]
+D19Wfl "tc" ["s<2245:R","mrk"]
+D19Wfl "ldq" ["m>3720:lxk","a>3288:sr","ll"]
+D19Wfl "gdq" ["s<1090:R","m>376:A","A"]
+D19Wfl "xpz" ["a<3808:R","a>3872:A","R"]
+D19Wfl "jhc" ["x>275:rnk","s<3378:A","m<1341:xzs","A"]
+D19Wfl "xgc" ["s<2067:pcx","s>3152:zg","pdk"]
+D19Wfl "vb" ["x<3555:R","x<3725:R","jnp"]
+D19Wfl "snm" ["x<725:R","m<1713:A","x<879:A","R"]
+D19Wfl "qg" ["m<687:mzm","x<3206:vhh","x<3319:rqd","tq"]
+D19Wfl "lzv" ["a>1600:zt","qd"]
+D19Wfl "qx" ["a<312:A","a>412:A","R"]
+D19Wfl "fnq" ["a<503:R","a>510:sm","x>2449:A","pr"]
+D19Wfl "vt" ["x>2628:kvq","dzs"]
+D19Wfl "xks" ["m<3949:A","s<2950:R","R"]
+D19Wfl "blv" ["a<3304:hrf","A"]
+D19Wfl "np" ["a<775:A","dcb"]
+D19Wfl "nk" ["x>863:R","s<3306:A","m<223:A","A"]
+D19Wfl "sdp" ["x<1476:R","m>3890:R","a<3451:A","A"]
+D19Wfl "nhl" ["m<2352:R","x>2923:dp","jk"]
+D19Wfl "gnv" ["m>3707:rrv","m>3637:A","A"]
+D19Wfl "jk" ["x>2815:A","m<2839:A","R"]
+D19Wfl "gjq" ["m>2997:qr","R"]
+D19Wfl "mf" ["s>433:pd","a>622:jmf","hck"]
+D19Wfl "zbl" ["s<880:zj","R"]
+D19Wfl "qtx" ["a<1800:fxb","x<1831:dhk","dnz"]
+D19Wfl "hgz" ["a>1320:A","m>785:A","x<536:R","A"]
+D19Wfl "cmg" ["x<2985:brn","x>3380:R","x>3241:zn","R"]
+D19Wfl "dlb" ["x<3684:A","a>3277:R","m<2362:R","R"]
+D19Wfl "cgr" ["s<1023:R","m<3177:A","m>3227:A","A"]
+D19Wfl "hvj" ["s>2773:xt","kj"]
+D19Wfl "xvh" ["m<735:A","m>1413:mkj","a>931:A","plb"]
+D19Wfl "pb" ["x>3849:R","A"]
+D19Wfl "fv" ["m<3880:A","x<619:jvb","s>2354:R","hjq"]
+D19Wfl "rrq" ["x<2862:R","R"]
+D19Wfl "jkp" ["x<816:R","x>1084:A","a<2935:A","R"]
+D19Wfl "lkx" ["s>2236:R","x<2351:A","a>2888:A","A"]
+D19Wfl "fg" ["m<1099:czb","x>2564:nhj","m>1409:qvt","drf"]
+D19Wfl "dv" ["x<1599:R","m<1517:A","m<1555:R","A"]
+D19Wfl "hb" ["x>884:A","a<875:A","m>1324:R","A"]
+D19Wfl "npp" ["s<1927:R","m<3037:A","A"]
+D19Wfl "hth" ["m<3818:cls","m>3880:R","a<2449:qbx","R"]
+D19Wfl "db" ["a>172:R","a>87:A","R"]
+D19Wfl "jn" ["m<1606:dv","R"]
+D19Wfl "lpk" ["x<587:pmb","a<3274:dh","m<3889:R","xks"]
+D19Wfl "qk" ["m>849:R","x<242:R","m<753:A","jln"]
+D19Wfl "cd" ["a>3197:A","R"]
+D19Wfl "pj" ["m<1029:lqj","m>1387:vr","R"]
+D19Wfl "gkc" ["a<988:xvh","smk"]
+D19Wfl "ghh" ["m<1731:A","m>1765:A","R"]
+D19Wfl "rhk" ["x<3091:R","a>3563:xpz","R"]
+D19Wfl "jtz" ["m<1294:qjb","a<848:sc","m<1356:hb","mc"]
+D19Wfl "dn" ["s<2289:R","R"]
+D19Wfl "lff" ["a<2877:A","a>2976:A","A"]
+D19Wfl "rzj" ["m<1228:R","s<713:R","R"]
+D19Wfl "ch" ["s<2218:A","R"]
+D19Wfl "lk" ["x>1968:A","a>1002:R","x>1816:A","R"]
+D19Wfl "dm" ["x<2832:A","a>753:A","A"]
+D19Wfl "tts" ["a<1115:lk","A"]
+D19Wfl "cxn" ["s>1043:txd","m>3720:zpx","A"]
+D19Wfl "rt" ["m<2296:A","jl"]
+D19Wfl "sr" ["a>3689:zzs","pk"]
+D19Wfl "gd" ["x>2473:A","a>331:spt","db"]
+D19Wfl "tqt" ["x>1763:R","a<2539:R","R"]
+D19Wfl "xm" ["x<2530:R","a>175:R","R"]
+D19Wfl "kd" ["s<708:A","a>788:R","s<1456:A","A"]
+D19Wfl "mzm" ["s>2314:bdt","s<1540:A","x<3283:A","pg"]
+D19Wfl "knr" ["s<1390:A","A"]
+D19Wfl "rq" ["s<541:R","x<674:R","A"]
+D19Wfl "qhs" ["m<2705:R","a>3248:R","R"]
+D19Wfl "qqm" ["a<445:xz","x>2962:rgx","tr"]
+D19Wfl "qtn" ["m<1288:A","x<908:R","a>152:A","R"]
+D19Wfl "pcj" ["a>3615:vhd","hqz"]
+D19Wfl "xhv" ["a>3291:R","m<3743:A","A"]
+D19Wfl "nzd" ["m<3103:A","R"]
+D19Wfl "dzs" ["m<2395:lbx","m<2840:pbz","x<1544:rsr","glm"]
+D19Wfl "xcv" ["a>534:R","mzb"]
+D19Wfl "svc" ["x>1649:R","a<2028:R","s<549:A","A"]
+D19Wfl "bg" ["m>732:A","x<2224:R","A"]
+D19Wfl "nb" ["a>2519:R","s>1151:R","a<1781:xdb","R"]
+D19Wfl "xjs" ["s<3128:qcr","x<2113:xcv","x<2755:qvq","kg"]
+D19Wfl "nck" ["a>2589:rv","nvd"]
+D19Wfl "rgf" ["m<688:A","s>2496:bfp","A"]
+D19Wfl "kz" ["m>1079:A","a>1082:zpt","R"]
+D19Wfl "fsh" ["m>2354:mqg","s>1339:bhm","a>2579:zx","rqj"]
+D19Wfl "ql" ["s<1034:gs","a>496:slk","dsk"]
+D19Wfl "css" ["x>776:cxn","m<3711:rch","hnj"]
+D19Wfl "qvq" ["x<2502:smc","m>2182:R","rn"]
+D19Wfl "mqg" ["a>2380:R","s<2169:rlb","a<2245:cv","R"]
+D19Wfl "mz" ["x<1370:R","s<1734:A","A"]
+D19Wfl "bvk" ["x>1121:klk","m>764:kp","fp"]
+D19Wfl "mcg" ["a<2768:R","m<3382:R","A"]
+D19Wfl "jvb" ["a<3938:A","a>3977:A","m>3920:A","A"]
+D19Wfl "hjg" ["s<649:fh","R"]
+D19Wfl "rrv" ["m<3751:R","R"]
+D19Wfl "sd" ["m>3738:R","R"]
+D19Wfl "sv" ["m>492:gsq","x>1070:R","a>2386:A","mk"]
+D19Wfl "fp" ["m>471:cq","R"]
+D19Wfl "hjq" ["x>1174:A","A"]
+D19Wfl "lq" ["x<3568:R","s>1780:R","m>696:A","R"]
+D19Wfl "crm" ["a<3752:A","m>3702:R","m<3609:A","A"]
+D19Wfl "pph" ["s>3586:A","A"]
+D19Wfl "in" ["m<1799:jjp","bdz"]
+D19Wfl "lvz" ["a>3026:rhk","hbj"]
+D19Wfl "fkk" ["m<2575:pgt","x>1787:R","x<902:tj","R"]
+D19Wfl "mk" ["m<406:R","R"]
+D19Wfl "hck" ["m<3321:A","A"]
+D19Wfl "btm" ["m<2792:xjs","x<2487:rcq","sz"]
+D19Wfl "pbd" ["a>720:A","a<613:A","R"]
+D19Wfl "bnf" ["x<1385:A","m>1657:ghh","A"]
+D19Wfl "kr" ["x<3292:R","m>701:A","x<3394:R","qgp"]
+D19Wfl "dhk" ["a<1975:R","m<2911:A","s>2707:A","R"]
+D19Wfl "fcd" ["a<1130:R","s<3191:R","A"]
+D19Wfl "xg" ["x>2740:A","m<754:R","a>47:A","A"]
+D19Wfl "bcm" ["s<3214:R","x<764:R","A"]
+D19Wfl "kpz" ["a>1024:R","a>1016:R","A"]
+D19Wfl "rhn" ["x<963:R","s<2257:R","A"]
+D19Wfl "bcr" ["s<2914:R","s>3566:A","a<296:A","R"]
+D19Wfl "gcd" ["a>690:R","m>1502:R","a<637:R","R"]
+D19Wfl "mq" ["a<48:A","R"]
+D19Wfl "qh" ["x<3604:A","A"]
+D19Wfl "jln" ["x>325:R","s>3443:R","a<210:A","R"]
+D19Wfl "fh" ["a<2968:A","x>527:A","A"]
+D19Wfl "rv" ["x<977:blv","tc"]
+D19Wfl "kn" ["x<1718:zpb","x>2652:A","pbd"]
+D19Wfl "lp" ["m>3819:md","a>2795:ldq","s<702:vc","css"]
+D19Wfl "gfp" ["m>3428:zxd","kqq"]
+D19Wfl "pbz" ["x<1645:fhq","m<2636:hg","x<2254:fck","pss"]
+D19Wfl "lqj" ["x<1273:R","A"]
+D19Wfl "hhg" ["x<448:A","x<622:R","R"]
+D19Wfl "lls" ["m>1995:A","m<1923:A","R"]
+D19Wfl "lv" ["s<2619:R","s>2894:R","R"]
+D19Wfl "rhh" ["x<2975:tb","a>1112:zjf","x<3446:qg","gkc"]
+D19Wfl "lr" ["s<2659:R","R"]
+D19Wfl "scg" ["s<618:A","R"]
+D19Wfl "fcl" ["m<651:A","x<3400:R","s<3038:bp","mmp"]
+D19Wfl "kg" ["a>780:vp","R"]
+D19Wfl "rtz" ["a>209:df","m>639:cb","mnj"]
+D19Wfl "jx" ["m>122:R","A"]
+D19Wfl "cr" ["a<1417:fm","gtb"]
+D19Wfl "mhb" ["x>1851:R","qx"]
+D19Wfl "hjh" ["x>1552:A","s<907:A","s>1256:A","R"]
+D19Wfl "xzs" ["m<1253:R","A"]
+D19Wfl "smc" ["a>464:R","A"]
+D19Wfl "kvq" ["a<2814:fsh","x<3395:gvm","crl"]
+D19Wfl "gtg" ["x<433:tk","x<769:bsc","s>2477:npt","rvs"]
+D19Wfl "fsx" ["a<2621:A","a<3519:R","R"]
+D19Wfl "nn" ["m<915:rk","A"]
+D19Wfl "xj" ["s<2545:A","A"]
+D19Wfl "ffv" ["m>1422:A","x<1363:jpj","m>1361:R","lmx"]
+D19Wfl "bm" ["m>982:R","bn"]
+D19Wfl "bfp" ["s>3213:R","R"]
+D19Wfl "bdz" ["a<2137:tqs","m<3266:vt","qz"]
+D19Wfl "sbz" ["a>644:R","A"]
+D19Wfl "qrp" ["x>3233:nb","x>2759:bm","srn"]
+D19Wfl "mqc" ["x>2751:R","s<2721:lkx","s<3203:vf","rc"]
+D19Wfl "qvt" ["m>1626:np","s>2238:gz","x<907:tbj","zbl"]
+D19Wfl "dcb" ["m>1700:A","R"]
+D19Wfl "dp" ["x>3217:A","m>2662:A","x>3064:A","A"]
+D19Wfl "cmx" ["x<3034:A","a<375:R","m>508:R","A"]
+D19Wfl "gq" ["s<1476:A","a<786:R","a>840:R","R"]
+D19Wfl "mmv" ["m<262:R","x>1311:A","x<449:R","A"]
+D19Wfl "ndg" ["x<1971:R","a<3265:R","R"]
+D19Wfl "zpb" ["x<745:R","R"]
+D19Wfl "ngb" ["x<798:A","m<3645:R","s<2497:R","A"]
+D19Wfl "pss" ["s>1672:cd","qhs"]
+D19Wfl "jm" ["m<1177:A","A"]
+D19Wfl "jp" ["m>961:A","s>1784:A","A"]
+D19Wfl "bbl" ["m<2805:R","x>3597:R","m<2849:A","A"]
+D19Wfl "qr" ["m>3524:R","R"]
+D19Wfl "kps" ["a>3665:A","R"]
+D19Wfl "dhp" ["a>3587:R","R"]
+D19Wfl "sm" ["m<821:R","A"]
+D19Wfl "dnz" ["x>2559:A","s>2597:A","A"]
+D19Wfl "zg" ["a<203:pph","x<973:R","x<1362:rfl","A"]
+D19Wfl "prh" ["s>2052:xvn","x<2877:rgb","s<1031:tjp","xh"]
+D19Wfl "rj" ["m>3917:R","R"]
+D19Wfl "qvh" ["s>2604:xcm","s<1359:dc","a<1332:ss","bcd"]
+D19Wfl "qjb" ["s<3285:A","A"]
+D19Wfl "df" ["x>2352:R","m<538:ffg","s>1850:kkj","nx"]
+D19Wfl "dx" ["s>2250:A","R"]
+D19Wfl "klk" ["s<2623:smh","a>1109:dvl","x>1432:sk","A"]
+D19Wfl "vlq" ["m<400:R","R"]
+D19Wfl "gk" ["a>283:R","x>2989:R","A"]
+D19Wfl "kk" ["m<1175:bg","td"]
+D19Wfl "gvm" ["s<1760:nhl","hp"]
+D19Wfl "qs" ["s<2928:A","m>783:R","s<3382:A","R"]
+D19Wfl "nvd" ["m<1411:cl","x>1123:jn","m<1659:lr","jss"]
+D19Wfl "jkj" ["m>473:A","x<637:R","a>261:A","A"]
+D19Wfl "kqq" ["a>3249:rhn","s<1835:R","A"]
+D19Wfl "tbj" ["s<1246:A","s>1711:hhg","a<755:R","hm"]
+D19Wfl "tp" ["a>3324:A","m<3763:R","a<3097:R","A"]
+D19Wfl "pmr" ["s>1708:A","m<3460:A","A"]
+D19Wfl "dhd" ["s>990:R","m<3426:R","R"]
+D19Wfl "fjx" ["x<3231:pmr","s>2189:ckf","m<3402:R","jd"]
+D19Wfl "mh" ["x>1109:R","R"]
+D19Wfl "hpn" ["s>1992:nzd","A"]
+D19Wfl "lg" ["x<274:R","R"]
+D19Wfl "hv" ["s<2197:R","x<1939:R","R"]
+D19Wfl "rsx" ["s<436:R","A"]
+D19Wfl "sh" ["a>243:R","m<886:A","R"]
+D19Wfl "nq" ["x>2986:fcl","zzc"]
+D19Wfl "zxd" ["a<2811:A","mkg"]
+D19Wfl "bsc" ["s<1824:fk","fz"]
+D19Wfl "fj" ["x>928:R","m>1085:R","A"]
+D19Wfl "zhl" ["m>3798:A","R"]
+D19Wfl "fn" ["s<3288:R","x<2433:R","x>2525:A","R"]
+D19Wfl "nhj" ["s<1867:jb","jv"]
+D19Wfl "mnj" ["x>2286:hhj","s>1392:gr","R"]
+D19Wfl "qbx" ["m>3852:R","A"]
+D19Wfl "pg" ["m>390:A","R"]
+D19Wfl "hs" ["s<1082:A","x>1329:R","a>320:A","A"]
+D19Wfl "xs" ["m<3677:rq","m<3749:R","a<2400:drg","R"]
+D19Wfl "pcx" ["s>1363:A","tcf"]
+D19Wfl "lmx" ["m>1337:R","a<1276:A","R"]
+D19Wfl "cc" ["m<734:A","R"]
+D19Wfl "hp" ["s<3126:A","R"]
+D19Wfl "mt" ["m<3297:jfp","sd"]
+D19Wfl "nm" ["x>1332:sdp","a>3454:fx","a<3290:qpx","rj"]
+D19Wfl "qd" ["x>2236:gjq","cr"]
+D19Wfl "zn" ["m>3552:R","s>1435:A","s>1267:A","A"]
+D19Wfl "gzg" ["s>1066:R","mnq"]
+D19Wfl "zzp" ["m<1020:lhd","A"]
+D19Wfl "jzd" ["x>2390:rd","m<1069:kks","nck"]
+D19Wfl "pr" ["x>1956:R","s>1500:A","m>843:R","A"]
+D19Wfl "dvl" ["s<3137:R","m>605:R","A"]
+D19Wfl "js" ["m<2084:R","x<2870:R","R"]
+D19Wfl "jgt" ["m<1321:R","x<3410:R","A"]
+D19Wfl "jnp" ["a<233:A","s>2408:R","x<3862:R","R"]
+D19Wfl "gsq" ["a>3028:A","a<1961:R","a>2431:A","A"]
+
+D19Part {d19x=1637,d19m=1909,d19a=2036,d19s=1546}
+D19Part {d19x=1501,d19m=118,d19a=732,d19s=800}
+D19Part {d19x=3014,d19m=1069,d19a=3167,d19s=1318}
+D19Part {d19x=435,d19m=1750,d19a=41,d19s=1563}
+D19Part {d19x=477,d19m=185,d19a=1838,d19s=193}
+D19Part {d19x=1347,d19m=244,d19a=2415,d19s=2626}
+D19Part {d19x=578,d19m=553,d19a=2510,d19s=136}
+D19Part {d19x=249,d19m=166,d19a=762,d19s=23}
+D19Part {d19x=1172,d19m=489,d19a=2321,d19s=1040}
+D19Part {d19x=23,d19m=3874,d19a=1228,d19s=980}
+D19Part {d19x=2831,d19m=20,d19a=2235,d19s=205}
+D19Part {d19x=2087,d19m=29,d19a=534,d19s=1455}
+D19Part {d19x=2118,d19m=229,d19a=421,d19s=19}
+D19Part {d19x=2014,d19m=2489,d19a=99,d19s=1385}
+D19Part {d19x=1211,d19m=2963,d19a=1943,d19s=25}
+D19Part {d19x=1342,d19m=1735,d19a=1478,d19s=6}
+D19Part {d19x=1991,d19m=252,d19a=3415,d19s=83}
+D19Part {d19x=246,d19m=151,d19a=321,d19s=1155}
+D19Part {d19x=8,d19m=2267,d19a=3,d19s=2530}
+D19Part {d19x=3159,d19m=558,d19a=805,d19s=1871}
+D19Part {d19x=2923,d19m=465,d19a=1305,d19s=2882}
+D19Part {d19x=1688,d19m=201,d19a=257,d19s=218}
+D19Part {d19x=884,d19m=2083,d19a=864,d19s=119}
+D19Part {d19x=143,d19m=2435,d19a=3623,d19s=2019}
+D19Part {d19x=1667,d19m=481,d19a=1905,d19s=188}
+D19Part {d19x=268,d19m=1858,d19a=1079,d19s=913}
+D19Part {d19x=860,d19m=214,d19a=487,d19s=143}
+D19Part {d19x=558,d19m=3198,d19a=2,d19s=42}
+D19Part {d19x=2090,d19m=92,d19a=308,d19s=1373}
+D19Part {d19x=767,d19m=2710,d19a=362,d19s=3}
+D19Part {d19x=272,d19m=55,d19a=189,d19s=231}
+D19Part {d19x=1359,d19m=87,d19a=90,d19s=11}
+D19Part {d19x=124,d19m=42,d19a=3276,d19s=1632}
+D19Part {d19x=2899,d19m=2442,d19a=220,d19s=3152}
+D19Part {d19x=475,d19m=1049,d19a=1608,d19s=683}
+D19Part {d19x=2820,d19m=385,d19a=266,d19s=1844}
+D19Part {d19x=169,d19m=2898,d19a=150,d19s=179}
+D19Part {d19x=44,d19m=224,d19a=1315,d19s=1709}
+D19Part {d19x=35,d19m=45,d19a=99,d19s=87}
+D19Part {d19x=12,d19m=338,d19a=823,d19s=301}
+D19Part {d19x=436,d19m=2035,d19a=107,d19s=822}
+D19Part {d19x=1512,d19m=38,d19a=469,d19s=549}
+D19Part {d19x=1415,d19m=15,d19a=692,d19s=1507}
+D19Part {d19x=1571,d19m=527,d19a=439,d19s=813}
+D19Part {d19x=712,d19m=397,d19a=380,d19s=3369}
+D19Part {d19x=68,d19m=958,d19a=350,d19s=1372}
+D19Part {d19x=1040,d19m=1452,d19a=1976,d19s=526}
+D19Part {d19x=2126,d19m=89,d19a=115,d19s=257}
+D19Part {d19x=1320,d19m=534,d19a=2419,d19s=2958}
+D19Part {d19x=1503,d19m=855,d19a=876,d19s=4}
+D19Part {d19x=1448,d19m=793,d19a=253,d19s=1391}
+D19Part {d19x=1590,d19m=569,d19a=110,d19s=1817}
+D19Part {d19x=1880,d19m=936,d19a=322,d19s=252}
+D19Part {d19x=13,d19m=520,d19a=1705,d19s=73}
+D19Part {d19x=1668,d19m=2834,d19a=2717,d19s=1858}
+D19Part {d19x=1186,d19m=1567,d19a=237,d19s=183}
+D19Part {d19x=632,d19m=113,d19a=2854,d19s=342}
+D19Part {d19x=1734,d19m=64,d19a=530,d19s=2831}
+D19Part {d19x=1282,d19m=1059,d19a=213,d19s=14}
+D19Part {d19x=42,d19m=34,d19a=2780,d19s=1054}
+D19Part {d19x=662,d19m=824,d19a=441,d19s=39}
+D19Part {d19x=728,d19m=881,d19a=1238,d19s=2748}
+D19Part {d19x=732,d19m=742,d19a=978,d19s=2641}
+D19Part {d19x=132,d19m=843,d19a=849,d19s=1306}
+D19Part {d19x=1577,d19m=586,d19a=543,d19s=3118}
+D19Part {d19x=4,d19m=490,d19a=114,d19s=990}
+D19Part {d19x=3110,d19m=1960,d19a=703,d19s=608}
+D19Part {d19x=808,d19m=1548,d19a=485,d19s=352}
+D19Part {d19x=739,d19m=534,d19a=1613,d19s=51}
+D19Part {d19x=1019,d19m=2004,d19a=1847,d19s=2174}
+D19Part {d19x=2984,d19m=1413,d19a=169,d19s=2552}
+D19Part {d19x=2762,d19m=23,d19a=1118,d19s=625}
+D19Part {d19x=717,d19m=827,d19a=909,d19s=109}
+D19Part {d19x=337,d19m=1378,d19a=1303,d19s=578}
+D19Part {d19x=1069,d19m=1421,d19a=804,d19s=224}
+D19Part {d19x=234,d19m=581,d19a=931,d19s=410}
+D19Part {d19x=316,d19m=570,d19a=821,d19s=742}
+D19Part {d19x=768,d19m=1915,d19a=737,d19s=281}
+D19Part {d19x=9,d19m=80,d19a=1088,d19s=1711}
+D19Part {d19x=101,d19m=37,d19a=719,d19s=2625}
+D19Part {d19x=1354,d19m=15,d19a=395,d19s=833}
+D19Part {d19x=504,d19m=2989,d19a=29,d19s=1744}
+D19Part {d19x=1040,d19m=141,d19a=2771,d19s=186}
+D19Part {d19x=396,d19m=947,d19a=473,d19s=1942}
+D19Part {d19x=1364,d19m=173,d19a=15,d19s=2680}
+D19Part {d19x=1823,d19m=872,d19a=600,d19s=367}
+D19Part {d19x=717,d19m=1298,d19a=1419,d19s=685}
+D19Part {d19x=2922,d19m=367,d19a=311,d19s=95}
+D19Part {d19x=405,d19m=1169,d19a=272,d19s=574}
+D19Part {d19x=2209,d19m=8,d19a=56,d19s=615}
+D19Part {d19x=892,d19m=39,d19a=508,d19s=775}
+D19Part {d19x=403,d19m=868,d19a=22,d19s=1485}
+D19Part {d19x=17,d19m=834,d19a=191,d19s=612}
+D19Part {d19x=30,d19m=718,d19a=659,d19s=199}
+D19Part {d19x=1238,d19m=733,d19a=169,d19s=1232}
+D19Part {d19x=538,d19m=66,d19a=434,d19s=1821}
+D19Part {d19x=1328,d19m=2134,d19a=982,d19s=507}
+D19Part {d19x=13,d19m=1934,d19a=498,d19s=3765}
+D19Part {d19x=1806,d19m=445,d19a=551,d19s=70}
+D19Part {d19x=178,d19m=540,d19a=1321,d19s=412}
+D19Part {d19x=2363,d19m=1979,d19a=988,d19s=1604}
+D19Part {d19x=61,d19m=52,d19a=2250,d19s=772}
+D19Part {d19x=887,d19m=1865,d19a=2985,d19s=23}
+D19Part {d19x=1805,d19m=1366,d19a=808,d19s=314}
+D19Part {d19x=1542,d19m=649,d19a=1405,d19s=3211}
+D19Part {d19x=1685,d19m=1393,d19a=359,d19s=1961}
+D19Part {d19x=2482,d19m=1943,d19a=1461,d19s=2809}
+D19Part {d19x=879,d19m=784,d19a=639,d19s=860}
+D19Part {d19x=2039,d19m=105,d19a=659,d19s=812}
+D19Part {d19x=626,d19m=1428,d19a=16,d19s=227}
+D19Part {d19x=879,d19m=1455,d19a=2669,d19s=296}
+D19Part {d19x=1373,d19m=1976,d19a=577,d19s=1808}
+D19Part {d19x=387,d19m=2,d19a=2139,d19s=592}
+D19Part {d19x=1127,d19m=443,d19a=1010,d19s=444}
+D19Part {d19x=599,d19m=157,d19a=217,d19s=2041}
+D19Part {d19x=1626,d19m=2839,d19a=388,d19s=365}
+D19Part {d19x=648,d19m=884,d19a=2314,d19s=1900}
+D19Part {d19x=1625,d19m=414,d19a=1168,d19s=723}
+D19Part {d19x=1019,d19m=1323,d19a=715,d19s=784}
+D19Part {d19x=2298,d19m=2611,d19a=513,d19s=383}
+D19Part {d19x=222,d19m=189,d19a=150,d19s=1935}
+D19Part {d19x=3557,d19m=122,d19a=320,d19s=2309}
+D19Part {d19x=138,d19m=425,d19a=17,d19s=170}
+D19Part {d19x=696,d19m=55,d19a=1910,d19s=869}
+D19Part {d19x=571,d19m=5,d19a=1293,d19s=504}
+D19Part {d19x=1024,d19m=492,d19a=2218,d19s=151}
+D19Part {d19x=1412,d19m=1357,d19a=824,d19s=1767}
+D19Part {d19x=501,d19m=752,d19a=243,d19s=488}
+D19Part {d19x=506,d19m=2264,d19a=2049,d19s=1313}
+D19Part {d19x=299,d19m=27,d19a=1827,d19s=188}
+D19Part {d19x=9,d19m=2130,d19a=62,d19s=375}
+D19Part {d19x=599,d19m=1968,d19a=1951,d19s=3584}
+D19Part {d19x=162,d19m=1317,d19a=177,d19s=396}
+D19Part {d19x=122,d19m=986,d19a=16,d19s=2061}
+D19Part {d19x=281,d19m=79,d19a=1002,d19s=105}
+D19Part {d19x=3,d19m=1686,d19a=830,d19s=1580}
+D19Part {d19x=504,d19m=378,d19a=383,d19s=1149}
+D19Part {d19x=763,d19m=37,d19a=364,d19s=808}
+D19Part {d19x=146,d19m=142,d19a=189,d19s=1164}
+D19Part {d19x=1365,d19m=1172,d19a=264,d19s=360}
+D19Part {d19x=118,d19m=663,d19a=4,d19s=1059}
+D19Part {d19x=1301,d19m=2155,d19a=1253,d19s=2866}
+D19Part {d19x=1517,d19m=2329,d19a=366,d19s=95}
+D19Part {d19x=339,d19m=1735,d19a=1898,d19s=1340}
+D19Part {d19x=1261,d19m=2655,d19a=524,d19s=1216}
+D19Part {d19x=79,d19m=3221,d19a=636,d19s=203}
+D19Part {d19x=140,d19m=38,d19a=2493,d19s=733}
+D19Part {d19x=1876,d19m=521,d19a=766,d19s=110}
+D19Part {d19x=788,d19m=1326,d19a=257,d19s=527}
+D19Part {d19x=556,d19m=58,d19a=384,d19s=123}
+D19Part {d19x=1766,d19m=630,d19a=1054,d19s=17}
+D19Part {d19x=419,d19m=851,d19a=190,d19s=122}
+D19Part {d19x=180,d19m=2229,d19a=172,d19s=2138}
+D19Part {d19x=29,d19m=73,d19a=394,d19s=53}
+D19Part {d19x=785,d19m=2429,d19a=259,d19s=1174}
+D19Part {d19x=2157,d19m=903,d19a=814,d19s=2252}
+D19Part {d19x=311,d19m=441,d19a=158,d19s=1279}
+D19Part {d19x=2662,d19m=1791,d19a=836,d19s=2162}
+D19Part {d19x=513,d19m=536,d19a=331,d19s=1346}
+D19Part {d19x=223,d19m=955,d19a=489,d19s=386}
+D19Part {d19x=2017,d19m=362,d19a=931,d19s=1133}
+D19Part {d19x=539,d19m=409,d19a=120,d19s=41}
+D19Part {d19x=1686,d19m=587,d19a=1738,d19s=52}
+D19Part {d19x=1056,d19m=552,d19a=59,d19s=146}
+D19Part {d19x=2807,d19m=1088,d19a=88,d19s=2894}
+D19Part {d19x=613,d19m=253,d19a=1044,d19s=1219}
+D19Part {d19x=341,d19m=82,d19a=349,d19s=222}
+D19Part {d19x=402,d19m=577,d19a=1059,d19s=739}
+D19Part {d19x=217,d19m=3325,d19a=54,d19s=1457}
+D19Part {d19x=144,d19m=82,d19a=951,d19s=1934}
+D19Part {d19x=2731,d19m=33,d19a=2289,d19s=163}
+D19Part {d19x=2556,d19m=873,d19a=281,d19s=2512}
+D19Part {d19x=1805,d19m=124,d19a=2139,d19s=33}
+D19Part {d19x=550,d19m=2530,d19a=2411,d19s=65}
+D19Part {d19x=492,d19m=820,d19a=625,d19s=2324}
+D19Part {d19x=864,d19m=377,d19a=1377,d19s=2620}
+D19Part {d19x=2147,d19m=1173,d19a=151,d19s=116}
+D19Part {d19x=201,d19m=143,d19a=2566,d19s=106}
+D19Part {d19x=195,d19m=2048,d19a=305,d19s=2786}
+D19Part {d19x=37,d19m=882,d19a=3088,d19s=100}
+D19Part {d19x=421,d19m=277,d19a=2090,d19s=167}
+D19Part {d19x=2032,d19m=1263,d19a=1288,d19s=658}
+D19Part {d19x=2244,d19m=76,d19a=519,d19s=455}
+D19Part {d19x=23,d19m=2544,d19a=699,d19s=22}
+D19Part {d19x=2404,d19m=1411,d19a=1417,d19s=272}
+D19Part {d19x=574,d19m=2109,d19a=507,d19s=865}
+D19Part {d19x=354,d19m=471,d19a=38,d19s=1162}
+D19Part {d19x=865,d19m=135,d19a=434,d19s=391}
+D19Part {d19x=205,d19m=1244,d19a=942,d19s=961}
+D19Part {d19x=791,d19m=2963,d19a=127,d19s=1359}
+D19Part {d19x=3493,d19m=460,d19a=906,d19s=325}
+D19Part {d19x=1312,d19m=237,d19a=393,d19s=7}
+D19Part {d19x=819,d19m=1996,d19a=1259,d19s=387}
+D19Part {d19x=133,d19m=911,d19a=161,d19s=362}
+D19Part {d19x=534,d19m=1999,d19a=1237,d19s=114}
+D19Part {d19x=62,d19m=70,d19a=1019,d19s=290}
+D19Part {d19x=80,d19m=226,d19a=78,d19s=416}
+D19Part {d19x=372,d19m=429,d19a=134,d19s=747}
+D19Part {d19x=702,d19m=1387,d19a=3614,d19s=2657}
+D19Part {d19x=1392,d19m=101,d19a=713,d19s=20}
